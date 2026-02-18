@@ -1,3 +1,8 @@
+ARCHITECTURE
+
+# Microservices CI/CD Pipeline
+
+![CI/CD Pipeline](cicd-pipeline.png)
 
 
 Microservices CI/CD Pipeline Using Jenkins, Docker, and Kubernetes
